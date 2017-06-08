@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers
+END
+MOBFRSAHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFRSAHelper.h
+END
+MOBFDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFDebug.h
+END
+MOBFNotificationCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFNotificationCenter.h
+END
+MOBFNumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFNumber.h
+END
+MOBFPluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFPluginManager.h
+END
+MOBFJSTypeDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFJSTypeDefine.h
+END
+MOBFDataService.h
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFDataService.h
+END
+MOBFImageObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFImageObserver.h
+END
+MOBFNetworkFlowInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFNetworkFlowInfo.h
+END
+MOBFImageGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFImageGetter.h
+END
+MOBFRSAKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFRSAKey.h
+END
+MOBFHttpPostedFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFHttpPostedFile.h
+END
+MOBFDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFDevice.h
+END
+MOBFXml.h
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFXml.h
+END
+MOBFHttpService.h
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFHttpService.h
+END
+MOBFoundation.h
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFoundation.h
+END
+MOBFOAuthService.h
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFOAuthService.h
+END
+MOBFApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFApplication.h
+END
+MOBFXmlNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFXmlNode.h
+END
+MOBFString.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFString.h
+END
+IMOBFPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/IMOBFPlugin.h
+END
+MOBFJson.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFJson.h
+END
+MOBFData.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFData.h
+END
+MOBFRegex.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFRegex.h
+END
+MOBFDate.h
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFDate.h
+END
+MOBFViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFViewController.h
+END
+MOBFColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFColor.h
+END
+MOBFJSContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFJSContext.h
+END
+MOBFImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFImage.h
+END
+MOBFImageServiceTypeDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/yy-music/!svn/ver/582981/mobile/entmobile/ios/branches/entmobile-ios_module_reconstruction_feature/YYMobile/Model/ShareSDK3/Support/Required/MOBFoundation.framework/Headers/MOBFImageServiceTypeDef.h
+END
